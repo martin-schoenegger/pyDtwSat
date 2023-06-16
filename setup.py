@@ -18,7 +18,7 @@ setup(
     keywords = "Satellite image Analysis",
     url = "https://github.com/Kira1690/pyDtwSat.git",
     python_requires='>=3.8, <4',
-    install_requires=['scipy','matplotlib','pandas', 'sklern'],
+    install_requires=['scipy','matplotlib','pandas', 'sklearn'],
     packages=find_packages(),
     long_description=read('README.md'),
     long_description_content_type='text/markdown'
